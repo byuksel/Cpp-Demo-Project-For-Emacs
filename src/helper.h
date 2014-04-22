@@ -1,5 +1,7 @@
 class Helper {
  public:
-  // Helps
+  /** 
+   * Helps in various ways
+   */
   void help();
 };

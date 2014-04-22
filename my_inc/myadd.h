@@ -1,5 +1,7 @@
 class MyAdd {
  public:
-  // Adds a and b, returns the result
+  /**
+   * Adds a and b, returns the result
+   */
   int add(int a, int b);
 };
